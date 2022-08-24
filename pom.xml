@@ -45,4 +45,8 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+    <build>
+        <defaultGoal>clean install</defaultGoal>
+    </build>
+
 </project>
