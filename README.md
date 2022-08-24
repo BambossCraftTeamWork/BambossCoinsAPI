@@ -15,7 +15,7 @@
 <dependency>
     <groupId>com.github.BambossCraftTeamWork</groupId>
     <artifactId>BambossCoinsAPI</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
 </dependency>
 ```
 
@@ -29,6 +29,6 @@ allprojects {
 ```
 ```groovy
 dependencies {
-    implementation 'com.github.BambossCraftTeamWork:BambossCoinsAPI:1.0'
+    implementation 'com.github.BambossCraftTeamWork:BambossCoinsAPI:1.1'
 }
 ```
